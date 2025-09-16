@@ -1,3 +1,4 @@
 Este es el archivo web
 Nueva versión de la web en la rama web
 Otra modificación en web.txt (rama web)
+Cambio diferente en web.txt (rama principal)
